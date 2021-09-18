@@ -19,3 +19,4 @@ Contents
 .. toctree::
 
    free
+   watch-shang-chi-full-movie-online-free
