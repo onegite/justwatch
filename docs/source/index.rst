@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   Free Guy 2021
+   free
