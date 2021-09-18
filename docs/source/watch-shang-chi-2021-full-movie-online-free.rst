@@ -1,6 +1,6 @@
 .. image:: https://i.imgur.com/hqtOGP0.jpg
   :alt: Watch Shang Chi Full Movie
-
+==========================================
 
 123Movies Watch Shang-Chi and the Legend of the Ten Rings (2021) HD Movie Online Full Free
 =====================================================================================================
