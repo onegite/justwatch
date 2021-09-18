@@ -9,4 +9,4 @@ Contents
 .. toctree::
 
    free
-   watch-shang-chi-full-movie-online-free
+   watch-shang-chi-2021-full-movie-online-free
