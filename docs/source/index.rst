@@ -1,8 +1,8 @@
 .. image:: https://i.imgur.com/N1LA96O.jpg
 ==========================================
 
-[123Movies]-HD! Shang-Chi and the Legend of the Ten Rings Watch Online (2021) Movie Full and Free Download
-==========================================================================================================
+HD-720p! Shang-Chi and the Legend of the Ten Rings Watch Online (2021) Movies Full Free Download
+================================================================================================
 
 07 minutes..ago! (official^stream~shang-chi.seemuve.com)→4K.HD.Downloads-! How to watch Shang-Chi and the Legend of the Ten Rings online free? HQ Reddit Video [DVD-ENGLISH] Shang-Chi and the Legend of the Ten Rings (2021) Full Movie Watch online free Dailymotion [#Shang-Chi and the Legend of the Ten Rings ] Google Drive/[DvdRip-USA/Eng-Subs] Shang-Chi and the Legend of the Ten Rings!
 
