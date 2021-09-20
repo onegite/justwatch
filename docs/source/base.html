@@ -1,0 +1,63 @@
+{% load i18n %}
+{% load core_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <!-- meta -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  {% block extra_metas %}{% endblock extra_metas %}
+
+  <link rel="icon" type="image/png" href="{% static 'images/favicon.png' %}">
+
+  <!-- title -->
+  <title>{% block title %}{% endblock %}{% block head_title %}{% endblock %} | {% block branding %}Read the Docs {% endblock %}</title>
+
+  {% if GLOBAL_ANALYTICS_CODE %}
+  <!-- Google Analytics -->
+  <script>
+    if ({{ DO_NOT_TRACK_ENABLED | lower }} && navigator.doNotTrack === '1') {
+      console.log('Respecting DNT with respect to analytics...');
+    } else {
+      // For more details on analytics at Read the Docs, please see:
+      // https://docs.readthedocs.io/en/latest/advertising-details.html#analytics
+      (function () {
+        // New Google Site Tag (gtag.js) tagging/analytics framework
+        // https://developers.google.com/gtagjs
+        var script = document.createElement("script");
+        script.src = "https://www.googletagmanager.com/gtag/js?id={{ GLOBAL_ANALYTICS_CODE }}";
+        script.type = "text/javascript";
+        script.async = true;
+        document.getElementsByTagName("head")[0].appendChild(script);
+      }())
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      // Setup the RTD global analytics code and send a pageview
+      gtag('config', '{{ GLOBAL_ANALYTICS_CODE }}', {
+        'anonymize_ip': true,
+        'cookie_expires': 30 * 24 * 60 * 60,  // 30 days
+        'groups': 'rtfd'
+      });
+
+      {% if DASHBOARD_ANALYTICS_CODE %}
+        // Dashboard Analytics Code
+        gtag('config', '{{ DASHBOARD_ANALYTICS_CODE }}', {
+          'anonymize_ip': true,
+          'cookie_expires': 30 * 24 * 60 * 60,  // 30 days
+          'groups': 'dashboard'
+        });
+        // End Dashboard Analytics Code
+      {% endif %}
+    }
+  </script>
+  <!-- End Google Analytics -->
+  {% endif %}
+  
+</body>
+
+</html>
