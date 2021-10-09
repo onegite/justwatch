@@ -1,3 +1,6 @@
+Don’t postpone live date with your beloved long
+===============================================
+
 We all have heard many times how difficult it is to maintain a happy love relationship over a long distance? Yes, such relationships offer more life challenges than normal ones. They require constant attention from both partners. Our website has been working on the dating market for many years and we were happy to witness how hundreds of beautiful love stories of Ukrainian girls and men from all over the world arose and flourished. Many of them ended in marriage, started as a simple online dating. We know that among our members there are a lot of people who are open to online romance contacts, which means for sure there are those who will possibly meet the love of all life, where only one, but painful problem is between you and your loved one thousands of kilometers away.
 
 Some words about trust, personal boundaries and emotional connection.
